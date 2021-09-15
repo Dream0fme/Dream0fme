@@ -5,13 +5,13 @@
 
 - 💼 I am working in [vniiftri](https://www.vniiftri.ru/en/).
 - 🎓 I finished my bachelor's degree and now I am studying for a master's degree.
-- 💬 Ask me about anything [here](https://t.me/dream_0f_me/).
 - 📋 My resume on [habr](https://career.habr.com/dreamzy) (in Russian).
+- 💬 Ask me about anything [here](https://t.me/dream_0f_me/).
 
 [<img src="https://img.shields.io/badge/Telegram-282C34?logo=telegram&logoColor=0077B5" alt="Telegram logo" title="Telegram" height="25" />](https://t.me/dream_0f_me/)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Dream0fMe&show_icons=true&include_all_commits=true&theme=dark" alt="Anurag's github stats" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Dream0fme&show_icons=true&hide_title=true&hide=contribs,issues&include_all_commits=true&theme=dark" alt="Anurag's github stats" />
 </a>
 
 <!--
