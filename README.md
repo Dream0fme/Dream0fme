@@ -5,7 +5,7 @@
 
 - 💼 I am working in [vniiftri](https://www.vniiftri.ru/en/).
 - 🎓 I finished my bachelor's degree and now I am studying for a master's degree.
-- 📋 My resume on [habr](https://career.habr.com/dreamzy) or in details on [Google.Docs](https://docs.google.com/document/d/1YaEWhiDfqPlJ45MBYUoZZjDK2-MrkvN_/edit?rtpof=true) (in Russian).
+- 📋 My resume on [habr](https://career.habr.com/devalurum) or in details on [Google.Docs](https://docs.google.com/document/d/1YaEWhiDfqPlJ45MBYUoZZjDK2-MrkvN_/edit?rtpof=true) (in Russian).
 - 💬 Ask me about anything [here](https://t.me/devalurum/).
 
 [<img src="https://img.shields.io/badge/Telegram-282C34?logo=telegram&logoColor=0077B5" alt="Telegram logo" title="Telegram" height="25" />](https://t.me/devalurum/)
