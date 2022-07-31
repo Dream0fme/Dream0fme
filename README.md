@@ -4,7 +4,7 @@
 -->
 
 - 💼 I am working in [vniiftri](https://www.vniiftri.ru/en/).
-- 🎓 I finished my bachelor's degree and now I am studying for a master's degree.
+- 🎓 I finished my master's degree in applied informatics.
 - 📋 My resume on [habr](https://career.habr.com/devalurum) or in details on [Google.Docs](https://docs.google.com/document/d/1YaEWhiDfqPlJ45MBYUoZZjDK2-MrkvN_/edit?rtpof=true) (in Russian).
 - 💬 Ask me about anything [here](https://t.me/devalurum/).
 
