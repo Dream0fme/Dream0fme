@@ -9,16 +9,21 @@
 - 💬 Ask me about anything [here](https://t.me/devalurum/).
 
 [<img src="https://img.shields.io/badge/Telegram-282C34?logo=telegram&logoColor=0077B5" alt="Telegram logo" title="Telegram" height="25" />](https://t.me/devalurum/)
+[<img src="https://play-lh.googleusercontent.com/YpAV7Q-ZJhI5tzFk_wEX-7-x2BydtnCtFTVUrmq0zAO6jLCLA4nNcfem3p_Pyowg9w" alt="hh" title="hh" height="25" />](https://irkutsk.hh.ru/resume/af3e78daff0b03aa030039ed1f6237426b6f47)
+[<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/9f/82/b4/9f82b466-445b-f3ff-473d-ed4d7d7998a9/source/512x512bb.jpg" alt="habr career" title="Habr.Career" height="25" />](https://career.habr.com/devalurum)
+
 
 **Favorite Tech Stack:**  
 <code><img height="35" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg"></code>
-<code><img height="35" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/spring.svg"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/frameworks/spring.svg"></code>
 <code><img height="35" src="https://avatars.githubusercontent.com/u/62695641?v=4"></code>
-<code><img height="35" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/mysql.svg"></code>
-<code><img height="35" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/postgresql.svg"></code>
-<code><img height="35" src="https://github.com/gilbarbara/logos/blob/master/logos/hibernate.svg"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/databases/mysql.svg"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/databases/postgresql.svg"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/hibernate.svg"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-<code><img height="35" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/ides/intellij.svg"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg"></code>
+<code><img height="35" src="https://hub.datree.io/img/cicd/3.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/ides/intellij.svg"></code>
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
