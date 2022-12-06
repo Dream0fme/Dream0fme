@@ -1,11 +1,11 @@
-### Hi, I'm Alexander Urumov, Java Developer👨‍💻
+### Hi, I'm Alexander Urumov, Middle Java Developer👨‍💻
 
 <!--[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/)
 -->
 
-- 💼 I am working in [vniiftri](https://www.vniiftri.ru/en/).
+- 💼 I am working in [Smart Data](https://www.smartdata.dev/).
 - 🎓 I finished my master's degree in applied informatics.
-- 📋 My resume on [habr](https://career.habr.com/devalurum) or in details on [Google.Docs](https://docs.google.com/document/d/1YaEWhiDfqPlJ45MBYUoZZjDK2-MrkvN_/edit?rtpof=true) (in Russian).
+- 📋 My resume on [habr](https://career.habr.com/devalurum) or [headhunter](https://irkutsk.hh.ru/resume/af3e78daff0b03aa030039ed1f6237426b6f47) (in Russian).
 - 💬 Ask me about anything [here](https://t.me/devalurum/).
 
 [<img src="https://img.shields.io/badge/Telegram-282C34?logo=telegram&logoColor=0077B5" alt="Telegram logo" title="Telegram" height="25" />](https://t.me/devalurum/)
@@ -14,16 +14,17 @@
 
 
 **Favorite Tech Stack:**  
-<code><img height="35" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/frameworks/spring.svg"></code>
-<code><img height="35" src="https://avatars.githubusercontent.com/u/62695641?v=4"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/databases/mysql.svg"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/databases/postgresql.svg"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/hibernate.svg"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg"></code>
-<code><img height="35" src="https://hub.datree.io/img/cicd/3.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/ides/intellij.svg"></code>
+<code><img height="35" title="Java" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg"></code>
+<code><img height="35" title="Spring" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/frameworks/spring.svg"></code>
+<code><img height="35" title="PostgreSQL" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/databases/postgresql.svg"></code>
+<code><img height="35" title="Hibernate" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/hibernate.svg"></code>
+<code><img height="35" title="Gradle" src="https://avatars.githubusercontent.com/u/62695641?v=4"></code>
+<code><img height="35" title="Docker" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
+<code><img height="35" title="Kubernetes" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg"></code>
+<code><img height="35" title="Gitlab CI/CD" src="https://hub.datree.io/img/cicd/3.png"></code>
+<code><img height="35" title="MapStruct" src="https://avatars.githubusercontent.com/u/4086779?s=200&v=4"></code>
+<code><img height="35" title="Lombok" src="https://avatars.githubusercontent.com/u/45949248?s=200&v=4"></code>
+<code><img height="35" title="IntelliJ IDEA" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/ides/intellij.svg"></code>
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
